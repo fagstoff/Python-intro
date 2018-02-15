@@ -1,6 +1,8 @@
 # python-intro
 En introduksjon til Python med Jupyter Notebooks.
 
+En oversikt over kursinnholdet finnes i filen [index.ipynb](Fagstoff/index.ipynb) i fagstoffmappa.
+
 Kurset kan tas som en selvstendig introduksjon til programmeringsspråket [python](https://www.python.org/), eller som en del av faget [Programmering og modellering](https://github.com/fagstoff/ProgMod/tree/master/Læreplan).
 
 Prosjektet ble startet våren 2017 av [fuzzbin](https://github.com/fuzzbin) og [bitjungle](https://github.com/bitjungle).
