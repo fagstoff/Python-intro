@@ -1,4 +1,4 @@
-# python-intro
+# Python-intro
 En introduksjon til Python med Jupyter Notebooks.
 
 En oversikt over kursinnholdet finnes i filen [index.ipynb](Fagstoff/index.ipynb) i fagstoffmappa.
