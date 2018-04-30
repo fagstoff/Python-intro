@@ -2,9 +2,9 @@
 
 Ønsker du å bidra med innholdsproduksjon kan det enkelt gjøres ved å:
 
-1. Lag en [fork](https://github.com/fagstoff/ProgMod#fork-destination-box) på Github.
-1. Gjør endringer/lag innhold.
-1. Legg inn en [pull request](https://help.github.com/articles/about-pull-requests/) på Github.
+1. Lag en [fork](https://github.com/fagstoff/ProgMod#fork-destination-box) på Github
+1. Gjør endringer/lag innhold
+1. Legg inn en [pull request](https://help.github.com/articles/about-pull-requests/) på Github
 1. Følg retningslinjene som er beskrevet under
 
 Retningslinjene er delt inn i tre hovedområder:
@@ -26,7 +26,7 @@ Alle fagstoffsider skal oppfylle kravene som er gitt nedenfor.
 
 ### Krav til innhold
 
- * Fagteksten skal starte med en kort ingress som gir en introduksjon til fagstoffet som skal behandles.
- * Python-koden bør ligge så nært opp til standarden [PEP-8](https://www.python.org/dev/peps/pep-0008/) som mulig.
- * Matematikk skal være typesatt med LaTeX.
- * Fagteksten skal avsluttes med oppgaver.
+ * Fagteksten skal starte med en kort ingress som gir en introduksjon til fagstoffet som skal behandles
+ * Python-koden bør ligge så nært opp til standarden [PEP-8](https://www.python.org/dev/peps/pep-0008/) som mulig
+ * Matematikk skal være typesatt med LaTeX
+ * Fagteksten skal avsluttes med oppgaver
