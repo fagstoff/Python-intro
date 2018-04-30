@@ -6,15 +6,8 @@
 1. Gjør endringer/lag innhold
 1. Legg inn en [pull request](https://help.github.com/articles/about-pull-requests/) på Github
 1. Følg retningslinjene som er beskrevet under
-
-Retningslinjene er delt inn i tre hovedområder:
-
- * [Standard for utforming av fagstoff-sider](#standard-for-utforming-av-fagstoff-sider)
- * [Programkode](#programkode)
- * [Prosjektoppgaver](#prosjektoppgaver)
  
- 
-## Standard for utforming av fagstoff-sider
+## Retningslinjer for utforming av fagstoff-sider
 
 Alle fagstoffsider skal oppfylle kravene som er gitt nedenfor.
 
