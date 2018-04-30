@@ -2,7 +2,7 @@
 
 Dette er en introduksjon til [Python](https://www.python.org/) med [Jupyter Notebooks](https://jupyter.org/). En oversikt over kursinnholdet finner du i fila [index.ipynb](Fagstoff/index.ipynb) i [fagstoffmappa](https://github.com/fagstoff/python-intro/tree/master/Fagstoff).
 
-Kurset kan tas som en selvstendig introduksjon til programmeringsspråket [python](https://www.python.org/), eller som en del av faget [Programmering og modellering](https://github.com/fagstoff/ProgMod/tree/master/Læreplan).
+Kurset kan tas som en selvstendig introduksjon til programmeringsspråket Python, eller som en del av faget [Programmering og modellering](https://github.com/fagstoff/ProgMod/tree/master/Læreplan).
 
 ## Slik kan du bidra
 
