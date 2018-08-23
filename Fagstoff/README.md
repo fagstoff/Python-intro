@@ -1,3 +1,3 @@
 # Fagstoff
 
-Oversikt over fagtsoffet finnes [index.ipynb](index.ipynb)
+En oversikt over fagstoffet finner du i [index.ipynb](index.ipynb).
